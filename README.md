@@ -1,2 +1,2 @@
 # Intel_librealsense
-A Python wrapper to fetch data from a realsense camera
+A Python code to fetch data from a realsense camera
